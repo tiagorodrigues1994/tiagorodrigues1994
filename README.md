@@ -29,5 +29,5 @@
   <img align="center" alt="Poda-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   </div>
  
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color==00506b&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00506b&height=120&section=footer"/>
  
